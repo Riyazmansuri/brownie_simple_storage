@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "update-dotenv": "^1.1.1"
+  }
+}
